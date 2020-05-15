@@ -5,4 +5,4 @@ class Dog
   
 snoopy = Dog.new
 
-lassie = dog.new
+lassie = Dog.new
